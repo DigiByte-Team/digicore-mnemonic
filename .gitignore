@@ -1,8 +1,8 @@
 *.sw[a-z]
 coverage
 node_modules
-bitcore-mnemonic.js
-bitcore-mnemonic.min.js
+digicore-mnemonic.js
+digicore-mnemonic.min.js
 tests.js
 
 lib/errors/index.js

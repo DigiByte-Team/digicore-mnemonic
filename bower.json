@@ -1,18 +1,18 @@
 {
-  "name": "bitcore-mnemonic",
-  "main": "./bitcore-mnemonic.min.js",
+  "name": "digicore-mnemonic",
+  "main": "./digicore-mnemonic.min.js",
   "version": "1.1.1",
-  "homepage": "https://github.com/bitpay/bitcore-mnemonic",
+  "homepage": "https://github.com/digibyte-team/digicore-mnemonic",
   "authors": [
     "BitPay"
   ],
-  "description": "BIP39 - Mnemonics implemented for Bitcore.",
+  "description": "BIP39 - Mnemonics implemented for Digicore.",
   "moduleType": [
     "globals"
   ],
   "keywords": [
-    "bitcoin",
-    "bitcore",
+    "digibyte",
+    "digicore",
     "btc",
     "satoshi",
     "mnemonic"
